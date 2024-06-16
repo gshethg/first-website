@@ -2,4 +2,7 @@
 title: "About"
 ---
 
-Gitanjali Sheth
+## About Me 
+My name is **Gitanjali Sheth** and I am learning *Data Science*
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
